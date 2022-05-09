@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Yan Yang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
 - 📫 How to reach me yan137@outlook.com
 
 <!---
